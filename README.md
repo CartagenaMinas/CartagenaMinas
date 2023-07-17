@@ -11,8 +11,8 @@
 
 ## Proyectos destacados
 
-- **[Nombre del proyecto 1]**: [Breve descripción del proyecto. Podrías hablar sobre lo que hace, las tecnologías que utilizaste, y los resultados que obtuviste.]([Link del repositorio del proyecto])
-- **[Nombre del proyecto 2]**: [Breve descripción del proyecto.]([Link del repositorio del proyecto])
+- **[Nombre del proyecto 1]**: 
+- **[Nombre del proyecto 2]**: 
 
 ## Habilidades
 
