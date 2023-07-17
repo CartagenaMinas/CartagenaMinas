@@ -28,6 +28,6 @@
 Si estás interesado en mi trabajo o quieres colaborar en algún proyecto, no dudes en contactarme:
 
 - Correo: ccartagenamatos@gmail.com
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/cristiancartagenamatos/)]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cristiancartagenamatos/)
 
 ¡Gracias por visitar mi perfil!
