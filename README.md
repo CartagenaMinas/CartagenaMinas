@@ -20,7 +20,7 @@
 - Herramientas de software de minería: Mineplan, Deswik, Whittle, Haulsim, Datamine, Qpit
 - Análisis de datos: Pandas, NumPy, Scikit-learn
 - Visualización de datos: Matplotlib, Seaborn, Plotly
-- Heramientas de BI: PowerBI, Tableau
+- Heramientas de BI: PowerBI, Tableau, SQL Server
 - Deep Learning: Keras, TensorFlow
 
 ## Contacto
